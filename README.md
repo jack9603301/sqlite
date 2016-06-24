@@ -3,7 +3,7 @@
 <p/>
 GitRepository: git://repo.or.cz/sqlite.git
 
-# SQLite Expert – Personal Edition
+# SQLiteStudio
 官方：http://www.sqliteexpert.com
 <p/>
-下载页面：http://www.sqliteexpert.com/download.html
+下载页面：http://sqlitestudio.pl/?act=download
