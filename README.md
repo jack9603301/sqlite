@@ -4,6 +4,6 @@
 GitRepository: git://repo.or.cz/sqlite.git
 
 # SQLiteStudio
-官方：http://www.sqliteexpert.com
+官方：http://sqlitestudio.pl
 <p/>
 下载页面：http://sqlitestudio.pl/?act=download
